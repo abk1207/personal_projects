@@ -1,0 +1,29 @@
+With 1 attackers and 1 defenders: 
+     Attackers will win 41.67 percent of battles, losing 1.1667 soldiers per battle. 
+     Defenders will win 58.33 percent of battles, losing 0.8333 soldiers per battle. 
+     The battle will draw 0.00 percent of battles. 
+
+With 2 attackers and 1 defenders: 
+     Attackers will win 57.87 percent of battles, losing 0.8426 soldiers per battle. 
+     Defenders will win 42.13 percent of battles, losing 1.1574 soldiers per battle. 
+     The battle will draw 0.00 percent of battles. 
+
+With 3 attackers and 1 defenders: 
+     Attackers will win 65.97 percent of battles, losing 0.6806 soldiers per battle. 
+     Defenders will win 34.03 percent of battles, losing 1.3194 soldiers per battle. 
+     The battle will draw 0.00 percent of battles. 
+
+With 1 attackers and 2 defenders: 
+     Attackers will win 25.46 percent of battles, losing 1.4907 soldiers per battle. 
+     Defenders will win 74.54 percent of battles, losing 0.5093 soldiers per battle. 
+     The battle will draw 0.00 percent of battles. 
+
+With 2 attackers and 2 defenders: 
+     Attackers will win 22.76 percent of battles, losing 1.2207 soldiers per battle. 
+     Defenders will win 44.83 percent of battles, losing 0.7793 soldiers per battle. 
+     The battle will draw 32.41 percent of battles. 
+
+With 3 attackers and 2 defenders: 
+     Attackers will win 37.17 percent of battles, losing 0.9209 soldiers per battle. 
+     Defenders will win 29.26 percent of battles, losing 1.0791 soldiers per battle. 
+     The battle will draw 33.58 percent of battles. 
